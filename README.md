@@ -1,3 +1,7 @@
+## Deprecation
+
+This repository is now archived (since 2025-12-24).
+
 Buildpack: Play!
 ================
 
